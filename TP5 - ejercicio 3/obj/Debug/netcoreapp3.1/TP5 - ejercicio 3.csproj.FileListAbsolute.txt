@@ -1,0 +1,13 @@
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\bin\Debug\netcoreapp3.1\TP5 - ejercicio 3.exe
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\bin\Debug\netcoreapp3.1\TP5 - ejercicio 3.deps.json
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\bin\Debug\netcoreapp3.1\TP5 - ejercicio 3.runtimeconfig.json
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\bin\Debug\netcoreapp3.1\TP5 - ejercicio 3.runtimeconfig.dev.json
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\bin\Debug\netcoreapp3.1\TP5 - ejercicio 3.dll
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\bin\Debug\netcoreapp3.1\TP5 - ejercicio 3.pdb
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\obj\Debug\netcoreapp3.1\TP5 - ejercicio 3.csprojAssemblyReference.cache
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\obj\Debug\netcoreapp3.1\TP5 - ejercicio 3.AssemblyInfoInputs.cache
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\obj\Debug\netcoreapp3.1\TP5 - ejercicio 3.AssemblyInfo.cs
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\obj\Debug\netcoreapp3.1\TP5 - ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\obj\Debug\netcoreapp3.1\TP5 - ejercicio 3.dll
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\obj\Debug\netcoreapp3.1\TP5 - ejercicio 3.pdb
+C:\Users\Lourdes Velazquez\source\repos\TP5 - ejercicio 3\obj\Debug\netcoreapp3.1\TP5 - ejercicio 3.genruntimeconfig.cache
