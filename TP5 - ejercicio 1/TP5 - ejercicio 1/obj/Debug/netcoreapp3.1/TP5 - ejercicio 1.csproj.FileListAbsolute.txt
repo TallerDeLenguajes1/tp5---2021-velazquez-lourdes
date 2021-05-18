@@ -1,0 +1,13 @@
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\bin\Debug\netcoreapp3.1\TP5 - ejercicio 1.exe
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\bin\Debug\netcoreapp3.1\TP5 - ejercicio 1.deps.json
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\bin\Debug\netcoreapp3.1\TP5 - ejercicio 1.runtimeconfig.json
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\bin\Debug\netcoreapp3.1\TP5 - ejercicio 1.runtimeconfig.dev.json
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\bin\Debug\netcoreapp3.1\TP5 - ejercicio 1.dll
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\bin\Debug\netcoreapp3.1\TP5 - ejercicio 1.pdb
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\obj\Debug\netcoreapp3.1\TP5 - ejercicio 1.csprojAssemblyReference.cache
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\obj\Debug\netcoreapp3.1\TP5 - ejercicio 1.AssemblyInfoInputs.cache
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\obj\Debug\netcoreapp3.1\TP5 - ejercicio 1.AssemblyInfo.cs
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\obj\Debug\netcoreapp3.1\TP5 - ejercicio 1.csproj.CoreCompileInputs.cache
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\obj\Debug\netcoreapp3.1\TP5 - ejercicio 1.dll
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\obj\Debug\netcoreapp3.1\TP5 - ejercicio 1.pdb
+C:\taller1\repositorio\TP5\tp5---2021-velazquez-lourdes\TP5 - ejercicio 1\TP5 - ejercicio 1\obj\Debug\netcoreapp3.1\TP5 - ejercicio 1.genruntimeconfig.cache
